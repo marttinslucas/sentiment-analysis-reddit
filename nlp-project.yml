@@ -1,0 +1,17 @@
+name: nlp-estudo
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - seaborn
+  - scikit-learn
+  - nltk
+  - numpy
+  - spacy
+  - matplotlib
+  - ipython
+  - ipykernel
+  - keras
+  - nbconvert
+  - pandoc
+prefix: /Users/lucasmartins/opt/anaconda3/envs/nlp-estudo
